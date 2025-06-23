@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "A9D8A39D-8C94-474C-8B24-971EA9E53B77",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:KCDragonBall.xcodeproj",
+      "identifier" : "26C5ACC12E055E7A000058F6",
+      "name" : "KCDragonBall"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "target" : {
+        "containerPath" : "container:KCDragonBall.xcodeproj",
+        "identifier" : "26C5ACD72E055E7C000058F6",
+        "name" : "KCDragonBallTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:KCDragonBall.xcodeproj",
+        "identifier" : "26C5ACE12E055E7C000058F6",
+        "name" : "KCDragonBallUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

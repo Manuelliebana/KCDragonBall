@@ -1,0 +1,41 @@
+  # Xcode
+        ## Build generated
+        build/
+        DerivedData/
+
+        ## Swift Playgrounds
+        *.swiftpm
+
+        ## Project-specific
+        *.xcodeproj/project.xcworkspace/
+        *.xcodeproj/xcuserdata/
+        *.xcworkspace/xcshareddata/
+        *.xcworkspace/xcuserdata/
+        
+        # Swift Package Manager
+        .build/
+        Packages/
+        *.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+        *.xcworkspace/xcshareddata/swiftpm/
+        
+        # Carthage
+        Carthage/Build
+        Carthage/Checkouts
+
+        # CocoaPods
+        Pods/
+
+        # Fastlane
+        fastlane/report.xml
+        fastlane/Preview.html
+        fastlane/screenshots
+        fastlane/test_output
+
+        # OS-generated files
+        .DS_Store
+        .DS_Store?
+        ._*
+        .Spotlight-V100
+        .Trashes
+        ehthumbs.db
+        Thumbs.db
