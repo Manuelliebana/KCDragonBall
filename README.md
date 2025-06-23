@@ -53,9 +53,10 @@ Se ha implementado una suite de tests unitarios robusta para la capa de Modelo, 
 1.  Clona este repositorio en tu máquina local.
 2.  Abre el archivo `KCDragonBall.xcodeproj` con Xcode.
 3.  Selecciona un simulador de iPhone y pulsa **Run** (o `⌘+R`).
+4.  En la pantalla de **Login** introducir credenciales para **usuario: manololiebana@gmail.com** y **contraseña: abcdef**
 
 ---
 
 ## ✍️ Autor
 
-Desarrollado por **Manuel Liebana Montoro**. 
+Desarrollado por **Manuel Liebana**. 
